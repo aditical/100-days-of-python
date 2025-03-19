@@ -1,2 +1,2 @@
 # Write your code below this line 👇
-import day1
+import Day1.day1
